@@ -1,12 +1,12 @@
 # MSDenseNet
 
 <div align=center>
-<img src="https://github.com/yinyh-1997/MSDenseNet/blob/main/msdensenet/figs/tfc.png"/>
+<img src="figs/tfc.png"/>
 <p align="center"><b>Figure 1. </b>The coding mechanism of fault-tolerant coding</p>
 </div>
 
 <div align=center>
-<img src="https://github.com/yinyh-1997/MSDenseNet/blob/main/msdensenet/figs/msdensenet.png"/>
+<img src="figs/msdensenet.png"/>
 <p align="center"><b>Figure 2. </b>The architecture of MSDenseNet</p>
 </div>
 
@@ -59,7 +59,7 @@ The models will save in `checkpoint_transfer` folder, the prediction results and
 
 # Data
 Data (train, validation and test) used for training MSDenseNet model can be downloaded from:
-http://csbio.njust.edu.cn/bioinf/maresnet/datasets.html
+http://csbio.njust.edu.cn/bioinf/msdensenet/datasets.html
 Uncompress these datasets to `Dataset` folder.
 ```
 Dataset
