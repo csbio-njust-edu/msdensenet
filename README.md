@@ -2,7 +2,7 @@
 
 <div align=center>
 <img src="figs/tfc.png"/>
-<p align="center"><b>Figure 1. </b>The coding mechanism of fault-tolerant coding</p>
+<p align="center"><b>Figure 1. </b>Graphical illustration of the coding mechanism of FTC</p>
 </div>
 
 <div align=center>
@@ -82,3 +82,9 @@ Dataset
     ├── train.data
     └── valid.data
 ```
+## Contact:
+[Yu-Hang Yin](https://github.com/yinyh-1997/MSDenseNet): yyh@stu.just.edu.cn <br>
+Long-Chen Shen: shenlc1995@njust.edu.cn <br>
+Dong-Jun Yu: njyudj@njust.edu.cn <br>
+Jiangning Song: jiangning.song@monash.edu
+
